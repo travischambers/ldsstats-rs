@@ -1,1 +1,3 @@
 # ldsstats-rs
+
+Code repository for ldsstats.org.
